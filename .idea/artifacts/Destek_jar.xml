@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Destek:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Destek_jar</output-path>
+    <root id="archive" name="Destek.jar">
+      <element id="module-output" name="Destek" />
+    </root>
+  </artifact>
+</component>
