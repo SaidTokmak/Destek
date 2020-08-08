@@ -1,11 +1,11 @@
-package com.said.destek.distinct;
+package com.said.destek.serviceImpl;
 
-import com.said.destek.distinct.DistinctElements;
+import com.said.destek.service.IDistinctElements;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class DistinctElementsImpl implements DistinctElements {
+public class DistinctElementsImpl implements IDistinctElements {
 
     @Override
     public List<Character> getDistinctCharacterInString(String value) {

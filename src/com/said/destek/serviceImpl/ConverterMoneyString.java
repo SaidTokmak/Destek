@@ -1,8 +1,9 @@
-package com.said.destek.converter;
+package com.said.destek.serviceImpl;
 
 import com.said.destek.model.MoneyModel;
+import com.said.destek.service.IConverterMoneyToString;
 
-public class ConverterMoneyString implements ConverterMoneyToString {
+public class ConverterMoneyString implements IConverterMoneyToString {
 
     @Override
     public String convertMoneyToString(MoneyModel money) {

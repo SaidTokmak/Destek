@@ -1,7 +1,7 @@
-package com.said.destek.converter;
+package com.said.destek.service;
 
 import com.said.destek.model.MoneyModel;
 
-public interface ConverterMoneyToString {
+public interface IConverterMoneyToString {
     String convertMoneyToString(MoneyModel money);
 }

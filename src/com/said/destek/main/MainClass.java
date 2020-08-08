@@ -1,6 +1,6 @@
 package com.said.destek.main;
 
-import com.said.destek.distinct.DistinctElementsImpl;
+import com.said.destek.serviceImpl.DistinctElementsImpl;
 
 import java.util.List;
 
